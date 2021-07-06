@@ -37,7 +37,7 @@ class MainScreen extends StatelessWidget {
               ),
               padding: EdgeInsets.all(10),
               child: Text(
-                '-',
+                'Tic-Tac-Toe',
                 style: TextStyle(fontSize: 28),
                 textAlign: TextAlign.center,
               ),

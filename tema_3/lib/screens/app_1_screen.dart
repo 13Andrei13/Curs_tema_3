@@ -37,6 +37,7 @@ class _App1ScreenState extends State<App1Screen> {
             crossAxisSpacing: 16.0,
             childAspectRatio: 1.2,
           ),
+          
           itemCount: basicPhrases.length,
           padding: const EdgeInsets.all(16.0),
           itemBuilder: (BuildContext context, int index) {
